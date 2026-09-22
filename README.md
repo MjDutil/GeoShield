@@ -4,7 +4,7 @@
 
 Este projeto é um **sistema de monitoramento climático e geoespacial**, desenvolvido como parte de um **projeto prático universitário**. O objetivo do sistema é gerar **mapas de risco em tempo real**, fornecendo informações precisas sobre áreas vulneráveis a **eventos climáticos extremos**, como tempestades, inundações e deslizamentos de terra. Através da visualização de dados geoespaciais, o sistema busca indicar **locais seguros** para a população em situações de calamidade, ajudando a **reduzir os impactos desses eventos** e contribuir para a **preservação da vida humana e do meio ambiente**.
 
-Este projeto foca principalmente no **frontend**, utilizando tecnologias modernas para criar uma interface interativa e de fácil uso. A plataforma permite a visualização de **mapas interativos**, onde as áreas de risco são destacadas, oferecendo também **informações detalhadas sobre os eventos climáticos** e rotas de evacuação sugeridas.
+A ideia principal é focar principalmente no **frontend**, utilizando tecnologias modernas para criar uma interface interativa e de fácil uso. A plataforma permite a visualização de **mapas interativos**, onde as áreas de risco são destacadas, oferecendo também **informações detalhadas sobre os eventos climáticos** e rotas de evacuação sugeridas.
 
 ## Como editar este código?
 
